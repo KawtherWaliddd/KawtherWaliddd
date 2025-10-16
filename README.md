@@ -87,7 +87,7 @@ I turn creative ideas into powerful user experiences — with clean architecture
 
 ---
 
-## 💙 Why Flutter?  
+##  Why Flutter?  
 Because Flutter brings **speed, flexibility, and beauty** together.  
 One codebase → Multiple platforms → Native performance → Pixel-perfect design.  
 
