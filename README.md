@@ -6,18 +6,32 @@
 </p>
 
 ### About
-Flutter developer specializing in building efficient, scalable, and user-focused mobile applications.  
+Flutter developer focused on creating efficient, maintainable, and scalable mobile applications.  
 Completed professional training at **Information Technology Institute (ITI)**, **Digital Egypt Pioneers Initiative (DEPI)**, and **National Telecommunication Institute (NTI)**.  
-Focused on writing clean, maintainable code and following modern architectural practices.
+Committed to applying clean architecture principles and modern Flutter practices.
 
 **Email:** kawtherwalid130@gmail.com  
 **Location:** Egypt
 
+---
+
 ### Technical Skills
-**Mobile Development:** Flutter, Dart  
+**Languages & Frameworks:** Dart, Flutter  
 **Backend & Cloud:** Firebase (Auth, Firestore, Storage), RESTful APIs  
 **Tools & Workflow:** Git, GitHub, Postman, Android Studio, Visual Studio Code  
-**Development Practices:** Clean Architecture, Responsive UI, State Management
+**Development Practices:** Clean Architecture, State Management (Cubit, Provider), Responsive UI Design
+
+---
+
+### Awards & Achievements
+- **Completed ITI Mobile Development Training** – Information Technology Institute (ITI)  
+- **Graduated from DEPI Flutter Track** – Digital Egypt Pioneers Initiative (DEPI)  
+- **Completed NTI Software & Mobile Development Program** – National Telecommunication Institute (NTI)  
+- **Certified in Software Engineering** – Faculty of Computer Science, Mansoura University (2024)  
+- **Flutter Beginner Certificate** – IEEE Mansoura Branch  
+- **Responsive UI & Adaptive Design Certificates** – Udemy  
+
+---
 
 ### Tools and Technologies
 <p align="left">
@@ -40,6 +54,8 @@ Focused on writing clean, maintainable code and following modern architectural p
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 ### Connect
 <p align="left">
