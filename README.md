@@ -8,12 +8,12 @@
 ---
 
 ### About
-Dedicated **Flutter Developer** passionate about crafting high-quality, scalable, and responsive mobile applications.  
-Experienced with **Dart**, **Flutter**, and advanced architectural patterns such as **BLoC** and **MVVM**.  
-Trained through multiple national technology initiatives, including **ITI**, **DEPI**, and **NTI**, with strong focus on clean architecture, Firebase integration, and API communication.  
+Dedicated **Flutter Developer** with a passion for crafting scalable, high-performance, and user-centric mobile applications.  
+Skilled in **Dart**, **Flutter**, and advanced architectural patterns such as **BLoC** and **MVVM**.  
+Trained through Egypt’s leading technology programs — **ITI**, **DEPI**, and **NTI** — with hands-on experience in clean architecture, API integration, and Firebase services.
 
 **Email:** kawtherwalid130@gmail.com  
-**Location:** Egypt  
+**Location:** Mansoura, Dakahlia, Egypt  
 
 ---
 
@@ -22,14 +22,14 @@ Trained through multiple national technology initiatives, including **ITI**, **D
 **Architectures:** BLoC, MVVM, Clean Architecture  
 **Backend & Cloud:** Firebase (Auth, Firestore, Storage), RESTful APIs  
 **Tools & Workflow:** Git, GitHub, Postman, Android Studio, Visual Studio Code  
-**Development Practices:** State Management, Responsive UI, API Integration, Modular Project Structure  
+**Development Practices:** State Management, Responsive UI, Modular Project Structure, API Integration  
 
 ---
 
 ### Education
 **Bachelor’s Degree in Computer Science**  
 *Faculty of Computer Science, Mansoura University*  
-**Graduated:** 2025 
+📅 **Graduated:** 2025  
 
 ---
 
@@ -39,8 +39,8 @@ Trained through multiple national technology initiatives, including **ITI**, **D
 - **National Telecommunication Institute (NTI)** – Software & Mobile Development Program  
 - **Software Engineering Certificate** – Faculty of Computer Science, Mansoura University (2024)  
 - **IEEE Mansoura Branch** – Flutter Beginner Level Certificate  
-- **Udemy** – Complete Flutter & Dart Development Course   
-- **Udemy** – Mastering Flutter Responsive & Adaptive UI Design  
+- **Udemy** – Complete Flutter & Dart Development Course  
+- **Udemy** – Mastering Flutter: Responsive & Adaptive UI Design  
 - **Udemy** – Flutter Advanced Course: BLoC and MVVM Pattern  
 - **Git & GitHub Certificate** – Version Control and Collaboration  
 
