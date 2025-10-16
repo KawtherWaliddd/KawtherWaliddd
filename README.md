@@ -1,39 +1,58 @@
-<h1 align="center">Kawther Walid</h1>
-<h3 align="center">Flutter Developer | Mobile Application Engineer</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#3DDC84;">Kawther Walid</span></h1>
+<h3 align="center">💙 Flutter Developer | Mobile Application Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kawtherwaliddd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kawtherwaliddd&label=Profile%20views&color=3DDC84&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### About
-Dedicated **Flutter Developer** with a passion for crafting scalable, high-performance, and user-centric mobile applications.  
-Skilled in **Dart**, **Flutter**, and advanced architectural patterns such as **BLoC** and **MVVM**.  
-Trained through Egypt’s leading technology programs — **ITI**, **DEPI**, and **NTI** — with hands-on experience in clean architecture, API integration, and Firebase services.
+## 🧠 About Me  
+I'm a passionate **Flutter Developer** focused on creating elegant, responsive, and high-performance mobile applications.  
+I turn creative ideas into powerful user experiences — with clean architecture, scalable code, and beautiful design.  
 
-**Email:** kawtherwalid130@gmail.com  
-**Location:** Mansoura, Dakahlia, Egypt  
-
----
-
-### Technical Skills
-**Languages & Frameworks:** Dart, Flutter  
-**Architectures:** BLoC, MVVM, Clean Architecture  
-**Backend & Cloud:** Firebase (Auth, Firestore, Storage), RESTful APIs  
-**Tools & Workflow:** Git, GitHub, Postman, Android Studio, Visual Studio Code  
-**Development Practices:** State Management, Responsive UI, Modular Project Structure, API Integration  
+✨ **Highlights:**  
+-  **Software Engineering graduate** from *Mansoura University*  
+-  Completed professional training at *ITI* ,*NTI* and *DEPI*  
+-  Experienced in **Firebase**, **REST APIs**, **Clean Architecture**, and **Responsive UI**  
+-  Always learning and improving through hands-on projects and teamwork  
 
 ---
 
-### Education
-**Bachelor’s Degree in Computer Science**  
-*Faculty of Computer Science, Mansoura University*  
-📅 **Graduated:** 2025  
+## ⚙️ Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,github,git,androidstudio,vscode,figma,postman" /><br/>
+</p>
+
+| **Category** | **Tools / Skills** |
+|---------------|--------------------|
+| **Languages** | Dart, Java, C# |
+| **Frameworks** | Flutter |
+| **Backend** | Firebase (Auth, Firestore, Storage), REST APIs |
+| **State Management** | Cubit, Provider |
+| **Architecture** | MVVM, Repository Pattern, Clean Architecture |
+| **Design Tools** | Figma, Canva |
+| **Version Control** | Git, GitHub |
+| **Other Tools** | Postman, Android Studio, VS Code |
 
 ---
 
-### Awards & Certifications
+## 💼 Featured Projects  
+
+> 🔗 Explore my repositories for full code, architecture, and videos.
+
+---
+
+## 🏆 Awards & Certifications  
+
+### 🎓 **Education & Achievements**
+-  **Bachelor’s Degree in Software Engineering** — *Faculty of Computer Science, Mansoura University (2024)*  
+-  **Top Performance Recognition** — *DEPI Final Project: “Campus Trade” (2025)*  
+-  **Graduation Project:** *Phishing Email Detection App* — built using Flutter and REST APIs  
+-  **Vice Head of PR Candidate** — *Bio Code Team (2024)*  
+
+### 📜 Awards & Certifications
 - **Information Technology Institute (ITI)** – Mobile Development Training  
 - **Digital Egypt Pioneers Initiative (DEPI)** – Flutter Track Graduate  
 - **National Telecommunication Institute (NTI)** – Software & Mobile Development Program  
@@ -42,37 +61,56 @@ Trained through Egypt’s leading technology programs — **ITI**, **DEPI**, and
 - **Udemy** – Complete Flutter & Dart Development Course  
 - **Udemy** – Mastering Flutter: Responsive & Adaptive UI Design  
 - **Udemy** – Flutter Advanced Course: BLoC and MVVM Pattern  
-- **Git & GitHub Certificate** – Version Control and Collaboration  
+- **Git & GitHub Certificate** – Version Control and Collaboration
 
 ---
 
-### Tools and Technologies
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+## 🎓 Education  
+
+🎓 **Bachelor’s in Software Engineering** — *Mansoura University (2024)*  
+ Focus: Software Development, Mobile Apps, and System Design  
+
+🏫 **Training Programs:**  
+- ITI (Information Technology Institute) — *Flutter*  
+- DEPI (Digital Egypt Pioneers Initiative) — *Mobile App Development*
+- NTI (National Telecommunication Initiative) — *Cross Platform*  
+  
+
+---
+
+
+## 💡 How I Work  
+-  Write **clean, readable, and maintainable** code  
+-  Collaborate effectively and communicate clearly  
+-  Focus on **performance, design, and UX**  
+-  Always improving through feedback and research  
+
+---
+
+## 💙 Why Flutter?  
+Because Flutter brings **speed, flexibility, and beauty** together.  
+One codebase → Multiple platforms → Native performance → Pixel-perfect design.  
+
+---
+
+## 📫 Contact Me  
+
+<p align="center">
+  <a href="mailto:kawtherwalid123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/kawther-walid">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
+  <a href="https://github.com/kawtherwaliddd">
+    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### Connect
-<p align="left">
-  <a href="https://linkedin.com/in/kawther-walid-6b96982a6" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kawtherwaliddd&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">✨ “Code is like art — the cleaner, the better.” ✨</p>
