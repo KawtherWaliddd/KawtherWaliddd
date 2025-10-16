@@ -8,9 +8,9 @@
 ---
 
 ### About
-Flutter developer specializing in building responsive, scalable, and maintainable mobile applications.  
-Completed professional training at **Information Technology Institute (ITI)**, **Digital Egypt Pioneers Initiative (DEPI)**, and **National Telecommunication Institute (NTI)**.  
-Focused on clean architecture, reusable code, and modern mobile development workflows.
+Dedicated **Flutter Developer** passionate about crafting high-quality, scalable, and responsive mobile applications.  
+Experienced with **Dart**, **Flutter**, and advanced architectural patterns such as **BLoC** and **MVVM**.  
+Trained through multiple national technology initiatives, including **ITI**, **DEPI**, and **NTI**, with strong focus on clean architecture, Firebase integration, and API communication.  
 
 **Email:** kawtherwalid130@gmail.com  
 **Location:** Egypt  
@@ -19,9 +19,17 @@ Focused on clean architecture, reusable code, and modern mobile development work
 
 ### Technical Skills
 **Languages & Frameworks:** Dart, Flutter  
+**Architectures:** BLoC, MVVM, Clean Architecture  
 **Backend & Cloud:** Firebase (Auth, Firestore, Storage), RESTful APIs  
 **Tools & Workflow:** Git, GitHub, Postman, Android Studio, Visual Studio Code  
-**Development Practices:** Clean Architecture, State Management (Cubit, Provider), Responsive UI Design  
+**Development Practices:** State Management, Responsive UI, API Integration, Modular Project Structure  
+
+---
+
+### Education
+**Bachelor’s Degree in Computer Science**  
+*Faculty of Computer Science, Mansoura University*  
+**Graduated:** 2025 
 
 ---
 
@@ -29,12 +37,12 @@ Focused on clean architecture, reusable code, and modern mobile development work
 - **Information Technology Institute (ITI)** – Mobile Development Training  
 - **Digital Egypt Pioneers Initiative (DEPI)** – Flutter Track Graduate  
 - **National Telecommunication Institute (NTI)** – Software & Mobile Development Program  
-- **Faculty of Computer Science, Mansoura University** – Software Engineering Certificate  
+- **Software Engineering Certificate** – Faculty of Computer Science, Mansoura University (2024)  
 - **IEEE Mansoura Branch** – Flutter Beginner Level Certificate  
+- **Udemy** – Complete Flutter & Dart Development Course   
 - **Udemy** – Mastering Flutter Responsive & Adaptive UI Design  
-- **Git & GitHub Certificate** – Completed version control and collaboration training
 - **Udemy** – Flutter Advanced Course: BLoC and MVVM Pattern  
-  
+- **Git & GitHub Certificate** – Version Control and Collaboration  
 
 ---
 
@@ -45,6 +53,9 @@ Focused on clean architecture, reusable code, and modern mobile development work
   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  </a>
+  <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="Bloc" width="100" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
