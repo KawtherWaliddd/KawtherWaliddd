@@ -13,26 +13,48 @@
 ---
 
 ### Profile
-Flutter developer with a strong background in building high-quality, responsive, and maintainable mobile applications.  
-Focused on implementing scalable architectures, efficient state management, and seamless user experiences.  
-Committed to writing clean, well-structured code following industry best practices.
+Flutter developer specializing in creating high-performance, scalable, and maintainable mobile applications.  
+Focused on clean architecture, structured state management, and responsive UI implementation.  
+Experienced in building production-level apps with seamless API integration and Firebase services.
 
 ---
 
 ### Core Expertise
-- **Cross-Platform Development:** Flutter, Dart  
+- **Mobile Development:** Flutter, Dart  
 - **Architecture & Patterns:** Clean Architecture, MVVM, State Management (Cubit, Provider)  
-- **Backend Integration:** Firebase, RESTful APIs, JSON Serialization  
-- **UI/UX Implementation:** Responsive design, adaptive layouts, animation, component reusability  
-- **Version Control & Tools:** Git, GitHub, Postman, Android Studio, VS Code  
+- **Backend Integration:** Firebase Authentication, Cloud Firestore, RESTful APIs  
+- **UI/UX Implementation:** Responsive design, adaptive layouts, custom widgets, animation  
+- **Version Control:** Git, GitHub  
 
 ---
 
-### Technical Focus
-- Building modular and scalable Flutter applications  
-- Integrating APIs and managing real-time data with Firebase  
-- Maintaining consistency through reusable components and centralized logic  
-- Ensuring performance, accessibility, and platform adaptability  
+### Tools & Technologies
+<p align="left">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
