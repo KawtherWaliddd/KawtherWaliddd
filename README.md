@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#3DDC84;">Kawther Walid</span></h1>
-<h3 align="center">💙 Flutter Developer | Mobile Application Engineer</h3>
+<h1 align="center"> Hi, I'm <span style="color:#3DDC84;">Kawther Walid 👋 </span></h1>
+<h3 align="center"> Flutter Developer | Mobile Application Engineer 💙</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kawtherwaliddd&label=Profile%20views&color=3DDC84&style=flat" alt="Profile views" />
