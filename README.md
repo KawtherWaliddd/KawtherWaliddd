@@ -67,7 +67,7 @@ I turn creative ideas into powerful user experiences — with clean architecture
 
 ## 🎓 Education  
 
-🎓 **Bachelor’s in Software Engineering** — *Mansoura University (2024)*  
+🎓 **Bachelor’s in Software Engineering** — *Mansoura University (2025)*  
  Focus: Software Development, Mobile Apps, and System Design  
 
 🏫 **Training Programs:**  
