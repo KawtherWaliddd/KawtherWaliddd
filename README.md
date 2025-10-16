@@ -5,13 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=kawtherwaliddd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+---
+
 ### About
-Flutter developer focused on creating efficient, maintainable, and scalable mobile applications.  
+Flutter developer specializing in building responsive, scalable, and maintainable mobile applications.  
 Completed professional training at **Information Technology Institute (ITI)**, **Digital Egypt Pioneers Initiative (DEPI)**, and **National Telecommunication Institute (NTI)**.  
-Committed to applying clean architecture principles and modern Flutter practices.
+Focused on clean architecture, reusable code, and modern mobile development workflows.
 
 **Email:** kawtherwalid130@gmail.com  
-**Location:** Egypt
+**Location:** Egypt  
 
 ---
 
@@ -19,17 +21,20 @@ Committed to applying clean architecture principles and modern Flutter practices
 **Languages & Frameworks:** Dart, Flutter  
 **Backend & Cloud:** Firebase (Auth, Firestore, Storage), RESTful APIs  
 **Tools & Workflow:** Git, GitHub, Postman, Android Studio, Visual Studio Code  
-**Development Practices:** Clean Architecture, State Management (Cubit, Provider), Responsive UI Design
+**Development Practices:** Clean Architecture, State Management (Cubit, Provider), Responsive UI Design  
 
 ---
 
-### Awards & Achievements
-- **Completed ITI Mobile Development Training** – Information Technology Institute (ITI)  
-- **Graduated from DEPI Flutter Track** – Digital Egypt Pioneers Initiative (DEPI)  
-- **Completed NTI Software & Mobile Development Program** – National Telecommunication Institute (NTI)  
-- **Certified in Software Engineering** – Faculty of Computer Science, Mansoura University (2024)  
-- **Flutter Beginner Certificate** – IEEE Mansoura Branch  
-- **Responsive UI & Adaptive Design Certificates** – Udemy  
+### Awards & Certifications
+- **Information Technology Institute (ITI)** – Mobile Development Training  
+- **Digital Egypt Pioneers Initiative (DEPI)** – Flutter Track Graduate  
+- **National Telecommunication Institute (NTI)** – Software & Mobile Development Program  
+- **Faculty of Computer Science, Mansoura University** – Software Engineering Certificate  
+- **IEEE Mansoura Branch** – Flutter Beginner Level Certificate  
+- **Udemy** – Mastering Flutter Responsive & Adaptive UI Design  
+- **Git & GitHub Certificate** – Completed version control and collaboration training
+- **Udemy** – Flutter Advanced Course: BLoC and MVVM Pattern  
+  
 
 ---
 
