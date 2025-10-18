@@ -12,9 +12,9 @@ I'm a passionate **Flutter Developer** focused on creating elegant, responsive, 
 I turn creative ideas into powerful user experiences — with clean architecture, scalable code, and beautiful design.  
 
 **Highlights:**  
--  **Software Engineering graduate** from *Mansoura University*  
+-  **Computer Science graduate** from *Mansoura University*  
 -  Completed professional training at *ITI*, *NTI*, and *DEPI*  
--  Experienced in **Firebase**, **REST APIs**, **Clean Architecture**, and **Responsive UI**  
+-  Experienced in **Firebase**, **REST APIs**,**MVVM Architecture**, **Clean Architecture**, and **Responsive UI**  
 -  Always learning and improving through hands-on projects and teamwork  
 
 ---
@@ -29,7 +29,7 @@ I turn creative ideas into powerful user experiences — with clean architecture
 |---------------|--------------------|
 | **Languages** | Dart, Java, C# |
 | **Frameworks** | Flutter |
-| **Backend** | Firebase (Auth, Firestore, Storage), REST APIs |
+| **Backend** | Firebase (Auth, Storage), REST APIs |
 | **State Management** | Cubit, Provider |
 | **Architecture** | MVVM, Repository Pattern, Clean Architecture |
 | **Design Tools** | Figma, Canva |
@@ -47,7 +47,7 @@ I turn creative ideas into powerful user experiences — with clean architecture
 ## **Awards & Certifications 🏆** 
 
 ### Education & Achievements 
--  **Bachelor’s Degree in Software Engineering** — *Faculty of Computer Science, Mansoura University (2025)*  
+-  **Bachelor’s Degree in Computer Science** — *Faculty of Computer Science, Mansoura University (2025)*  
 -  **Top Performance Recognition** — *DEPI Final Project: “Campus Trade” (2025)*  
 -  **Graduation Project:** *Phishing Email Detection App* — built using Flutter and REST APIs  
 -  **Vice Head of PR Candidate** — *Bio Code Team (2024)*  
