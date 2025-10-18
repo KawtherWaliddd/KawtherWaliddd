@@ -13,7 +13,7 @@ I turn creative ideas into powerful user experiences — with clean architecture
 
 **Highlights:**  
 -  **Software Engineering graduate** from *Mansoura University*  
--  Completed professional training at *ITI* ,*NTI* and *DEPI*  
+-  Completed professional training at *ITI*, *NTI*, and *DEPI*  
 -  Experienced in **Firebase**, **REST APIs**, **Clean Architecture**, and **Responsive UI**  
 -  Always learning and improving through hands-on projects and teamwork  
 
@@ -72,7 +72,7 @@ I turn creative ideas into powerful user experiences — with clean architecture
 
 **Training Programs:**  
 - ITI (Information Technology Institute) — *Flutter*  
-- DEPI (Digital Egypt Pioneers Initiative) — *Mobile App Development*
+- DEPI (Digital Egypt Pioneers Initiative) — *Mobile App Development*  
 - NTI (National Telecommunication Initiative) — *Cross Platform*  
   
 
@@ -108,13 +108,7 @@ One codebase → Multiple platforms → Native performance → Pixel-perfect des
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawtherwaliddd&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-###  Main Language  
+###  Main Language : 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter" width="90"/>
@@ -123,7 +117,7 @@ One codebase → Multiple platforms → Native performance → Pixel-perfect des
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Dart-blue?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Language-Dart-3DDC84?logo=dart&logoColor=white" />
 </p>
 
 ---
