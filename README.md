@@ -44,7 +44,7 @@ I turn creative ideas into powerful user experiences — with clean architecture
 
 ---
 
-## Awards & Certifications 🏆 
+## **Awards & Certifications 🏆** 
 
 ### **Education & Achievements **
 -  **Bachelor’s Degree in Software Engineering** — *Faculty of Computer Science, Mansoura University (2025)*  
