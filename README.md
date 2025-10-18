@@ -7,11 +7,11 @@
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 I'm a passionate **Flutter Developer** focused on creating elegant, responsive, and high-performance mobile applications.  
 I turn creative ideas into powerful user experiences — with clean architecture, scalable code, and beautiful design.  
 
-✨ **Highlights:**  
+**Highlights:**  
 -  **Software Engineering graduate** from *Mansoura University*  
 -  Completed professional training at *ITI* ,*NTI* and *DEPI*  
 -  Experienced in **Firebase**, **REST APIs**, **Clean Architecture**, and **Responsive UI**  
@@ -19,7 +19,7 @@ I turn creative ideas into powerful user experiences — with clean architecture
 
 ---
 
-## ⚙️ Tech Stack & Tools  
+## Tech Stack & Tools ⚙️ 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,github,git,androidstudio,vscode,figma,postman" /><br/>
@@ -38,21 +38,21 @@ I turn creative ideas into powerful user experiences — with clean architecture
 
 ---
 
-## 💼 Featured Projects  
+## Featured Projects  
 
 > 🔗 Explore my repositories for full code, architecture, and videos.
 
 ---
 
-## 🏆 Awards & Certifications  
+## Awards & Certifications 🏆 
 
-### 🎓 **Education & Achievements**
+### **Education & Achievements **
 -  **Bachelor’s Degree in Software Engineering** — *Faculty of Computer Science, Mansoura University (2025)*  
 -  **Top Performance Recognition** — *DEPI Final Project: “Campus Trade” (2025)*  
 -  **Graduation Project:** *Phishing Email Detection App* — built using Flutter and REST APIs  
 -  **Vice Head of PR Candidate** — *Bio Code Team (2024)*  
 
-### 📜 Awards & Certifications
+### Awards & Certifications
 - **Information Technology Institute (ITI)** – Mobile Development Training  
 - **Digital Egypt Pioneers Initiative (DEPI)** – Flutter Track Graduate  
 - **National Telecommunication Institute (NTI)** – Software & Mobile Development Program  
@@ -65,12 +65,12 @@ I turn creative ideas into powerful user experiences — with clean architecture
 
 ---
 
-## 🎓 Education  
+##  Education 🎓 
 
-🎓 **Bachelor’s in Software Engineering** — *Mansoura University (2025)*  
+ **Bachelor’s in Software Engineering** — *Mansoura University (2025)*  
  Focus: Software Development, Mobile Apps, and System Design  
 
-🏫 **Training Programs:**  
+**Training Programs:**  
 - ITI (Information Technology Institute) — *Flutter*  
 - DEPI (Digital Egypt Pioneers Initiative) — *Mobile App Development*
 - NTI (National Telecommunication Initiative) — *Cross Platform*  
@@ -79,7 +79,7 @@ I turn creative ideas into powerful user experiences — with clean architecture
 ---
 
 
-## 💡 How I Work  
+## How I Work  
 -  Write **clean, readable, and maintainable** code  
 -  Collaborate effectively and communicate clearly  
 -  Focus on **performance, design, and UX**  
@@ -93,7 +93,7 @@ One codebase → Multiple platforms → Native performance → Pixel-perfect des
 
 ---
 
-## 📫 Contact Me  
+## Contact Me 📫 
 
 <p align="center">
   <a href="mailto:kawtherwalid123@gmail.com">
