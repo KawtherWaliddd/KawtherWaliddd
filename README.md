@@ -46,7 +46,7 @@ I turn creative ideas into powerful user experiences — with clean architecture
 
 ## **Awards & Certifications 🏆** 
 
-### **Education & Achievements **
+### Education & Achievements 
 -  **Bachelor’s Degree in Software Engineering** — *Faculty of Computer Science, Mansoura University (2025)*  
 -  **Top Performance Recognition** — *DEPI Final Project: “Campus Trade” (2025)*  
 -  **Graduation Project:** *Phishing Email Detection App* — built using Flutter and REST APIs  
