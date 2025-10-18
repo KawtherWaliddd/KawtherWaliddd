@@ -19,7 +19,7 @@ I turn creative ideas into powerful user experiences — with clean architecture
 
 ---
 
-## Tech Stack & Tools ⚙️ 
+## Tech Stack & Tools  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,github,git,androidstudio,vscode,figma,postman" /><br/>
