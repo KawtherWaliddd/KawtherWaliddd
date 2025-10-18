@@ -114,12 +114,12 @@ One codebase → Multiple platforms → Native performance → Pixel-perfect des
 
 ---
 
-### 🧠 Main Language  
+###  Main Language  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter" width="90"/>
   <br/>
-  <b>This portfolio is mainly built with Dart & Flutter 💙</b>
+  <b>This portfolio is mainly built with Dart & Flutter </b>
 </p>
 
 <p align="center">
