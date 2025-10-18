@@ -78,7 +78,6 @@ I turn creative ideas into powerful user experiences — with clean architecture
 
 ---
 
-
 ## How I Work  
 -  Write **clean, readable, and maintainable** code  
 -  Collaborate effectively and communicate clearly  
@@ -112,5 +111,21 @@ One codebase → Multiple platforms → Native performance → Pixel-perfect des
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kawtherwaliddd&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+---
+
+### 🧠 Main Language  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter" width="90"/>
+  <br/>
+  <b>This portfolio is mainly built with Dart & Flutter 💙</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Dart-blue?logo=dart&logoColor=white" />
+</p>
+
+---
 
 <p align="center">✨ “Code is like art — the cleaner, the better.” ✨</p>
