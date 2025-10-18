@@ -93,7 +93,7 @@ One codebase → Multiple platforms → Native performance → Pixel-perfect des
 
 ---
 
-## Contact Me 📫 
+## Contact Me : 
 
 <p align="center">
   <a href="mailto:kawtherwalid123@gmail.com">
