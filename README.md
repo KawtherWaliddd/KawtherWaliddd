@@ -92,7 +92,7 @@ One codebase → Multiple platforms → Native performance → Pixel-perfect des
 
 ---
 
-## Contact Me : 
+## Contact Me 
 
 <p align="center">
   <a href="mailto:kawtherwalid123@gmail.com">
@@ -108,7 +108,7 @@ One codebase → Multiple platforms → Native performance → Pixel-perfect des
 
 ---
 
-###  Main Language : 
+##  Main Language 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter" width="90"/>
